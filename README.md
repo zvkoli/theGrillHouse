@@ -6,15 +6,14 @@
 
 - _Vue_
 - _Vue router_
-- _Vuex
+- _Vuex_
 - _Vue3 toastify_
 - _Vue icons_
 - _Tailwind_
 
 **_Preview_**
+![Uploading 01.png…]()
 
-
-![01](https://github.com/zvkoli/theGrillHouse/assets/100797809/83c2e3ed-94dd-4753-b179-ebfba57a8
 ![02](https://github.com/zvkoli/theGrillHouse/assets/100797809/e2dabacc-92dc-4b03-9ec4-683e0213613c)
 53a)
 ![03](https://github.com/zvkoli/theGrillHouse/assets/100797809/eb2208c9-3edf-45ae-96d6-6d3d14ee4139)
