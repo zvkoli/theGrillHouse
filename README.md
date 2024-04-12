@@ -1,35 +1,24 @@
-# vue-project
+**_The Grill House_**
 
-This template should help get you started developing with Vue 3 in Vite.
+---
 
-## Recommended IDE Setup
+**_Project Dependencies_**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- _Vue_
+- _Vue router_
+- _Vuex
+- _Vue3 toastify_
+- _Vue icons_
+- _Tailwind_
 
-## Customize configuration
+**_Preview_**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+![01](https://github.com/zvkoli/theGrillHouse/assets/100797809/83c2e3ed-94dd-4753-b179-ebfba57a8
+![02](https://github.com/zvkoli/theGrillHouse/assets/100797809/e2dabacc-92dc-4b03-9ec4-683e0213613c)
+53a)
+![03](https://github.com/zvkoli/theGrillHouse/assets/100797809/eb2208c9-3edf-45ae-96d6-6d3d14ee4139)
+![04](https://github.com/zvkoli/theGrillHouse/assets/100797809/67861901-8d17-4edb-af98-9a95e27a3e27)
+![05](https://github.com/zvkoli/theGrillHouse/assets/100797809/c74d4a52-861a-4720-8c9b-983be236ae86)
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+---
