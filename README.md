@@ -12,8 +12,8 @@
 - _Tailwind_
 
 **_Preview_**
-![Uploading 01.png…]()
 
+![01](https://github.com/zvkoli/theGrillHouse/assets/100797809/386130b5-b77e-4a21-a9af-50ad45e90644)
 ![02](https://github.com/zvkoli/theGrillHouse/assets/100797809/e2dabacc-92dc-4b03-9ec4-683e0213613c)
 53a)
 ![03](https://github.com/zvkoli/theGrillHouse/assets/100797809/eb2208c9-3edf-45ae-96d6-6d3d14ee4139)
